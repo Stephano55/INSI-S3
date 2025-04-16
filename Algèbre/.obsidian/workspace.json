@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "f8f2e393019e5b4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "66779952aedb257e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0e409671e31f717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "leçon/Noyaux et Images.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Noyaux et Images"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa7204cd2a26f285",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d44fc4b1b8366ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa56f46daf95fbf1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c5e333f4b674f10e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d71630fdc11e1d37",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9ea76b3627ae1e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3f3dea9afd5536e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c12130cfb513cf8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "leçon/Noyaux et Images.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Noyaux et Images"
+            }
+          },
+          {
+            "id": "9c5880e5565e8b6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "leçon/Noyaux et Images.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Noyaux et Images"
+            }
+          },
+          {
+            "id": "c1abf558a1709400",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c4098b6ba497ee3d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "leçon/Noyaux et Images.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Noyaux et Images"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "aa56f46daf95fbf1",
+  "lastOpenFiles": [
+    "exo/Exo.docx",
+    "leçon/Rang.docx",
+    "leçon/Application Linéaire.md",
+    "leçon/Noyaux et Images.md",
+    "leçon/Algèbre.md"
+  ]
+}

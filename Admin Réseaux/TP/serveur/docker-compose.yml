@@ -1,0 +1,22 @@
+version : '3'
+
+services:
+  bind9:
+    image: internetsystemsconsortium/bind9:9.18
+    container_name: bind9
+    restart: unless-stopped
+
+    ports:
+      - "53:53/udp"
+      - "53:53/tcp"
+    
+    volumes:
+      - ./etc/bind:/etc/bind
+    
+    environment:
+      - BIND9_USER=root
+      - BIND9_LOG=/var/log/named.log
+
+volumes:
+  bind-config:
+    driver: local

@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "9198b1bb583ea818",
+    "type": "split",
+    "children": [
+      {
+        "id": "701526ce7898af25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05f2f6f7cdd386fe",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Admin Réseaux/exercice/TD2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "TD2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c38a39aaa76f0664",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcfca32662afe698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e380e9e21ea69bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "eb165d769dad9de3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "058955d36e4d84f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7767cab282712d99",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7ee145c11549c5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83f77b351b4bde41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bienvenue.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Bienvenue"
+            }
+          },
+          {
+            "id": "8e812396aa018e27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bienvenue.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Bienvenue"
+            }
+          },
+          {
+            "id": "d06cd1bc87e7c91a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "d0c8a5728d1f56c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bienvenue.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Bienvenue"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "05f2f6f7cdd386fe",
+  "lastOpenFiles": [
+    "Admin Réseaux/Leçon/Leçon.md",
+    "Admin Réseaux/TP/TP.md",
+    "Admin Réseaux/TP/Routage Dynamique RIP.md",
+    "Admin Réseaux/TP/scenarioA.pkt~",
+    "Admin Réseaux/Leçon/ripconfigurationdebase_2.pdf",
+    "Admin Réseaux/exercice/exo 1.pdf",
+    "Admin Réseaux/exercice/TD1-1.pdf",
+    "Admin Réseaux/exercice/TP1 - Administration de services basiques.pdf",
+    "Admin Réseaux/exercice/exercicesRoutageIP.pdf",
+    "Docker/leçon/Docker.md",
+    "DevOps/Leçon/Orienté CI.md",
+    "Admin Réseaux/TP/scenarioA.pkt",
+    "Admin Réseaux/TP/Routage Statique.md",
+    "Admin Réseaux/doc et image/Pasted image 20250414102612.png",
+    "Admin Sys/Leçon/Leçon.md",
+    "Admin Sys/Projet/SyncMachine/ABout/SyncMachine.md",
+    "Hacking Ethique/Exposé/Suricata.md",
+    "DevOps/TP/Apache-Php-MySql/Documentation.md",
+    "DevOps/TP/Apache-Php-MySql/docker-compose.yml",
+    "DevOps/TP/Apache-Php-MySql",
+    "DevOps/TP/Apache,PHP,MySql.md",
+    "DevOps/TP",
+    "Admin Sys/Projet/SyncMachine/files/Pasted image 20250413132003.png",
+    "Admin Réseaux/doc et image/Pasted image 20250412211956.png",
+    "Admin Réseaux/TP/exo1/exo1.md",
+    "Admin Réseaux/TP/exo1/TD2.md",
+    "Admin Réseaux/doc et image/Pasted image 20250410211437.png",
+    "Admin Sys/Réponses/TD_ARSL.md",
+    "Admin Sys/exercice/27-02_25.md",
+    "Hacking Ethique/Exposé/suricata/Untitled.md",
+    "Algèbre/leçon/Noyaux et Images.md",
+    "Algèbre/leçon/Algèbre.md",
+    "Algèbre/leçon/Application Linéaire.md",
+    "Admin Réseaux/Leçon/image et doc/Pasted image 20250219114216.png",
+    "Admin Réseaux/Leçon/image et doc/Pasted image 20250219114159.png",
+    "Admin Réseaux/Leçon/image et doc/Pasted image 20250219114117.png",
+    "Admin Réseaux/Leçon/image et doc/Pasted image 20250219113943.png",
+    "Admin Réseaux/doc et image/Pasted image 20250219114216.png",
+    "Admin Réseaux/doc et image/Pasted image 20250219114159.png",
+    "NoSQL/17-02-25/NoSQL.md",
+    "Algèbre/exo/Recherche à faire.md",
+    "Bienvenue.md"
+  ]
+}

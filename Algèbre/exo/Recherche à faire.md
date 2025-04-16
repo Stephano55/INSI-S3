@@ -1,0 +1,2 @@
+- Matrice aquivalente
+- Somme directe de SEV: deux SEV E et F sont en somme direct si leur intersection est réduite au vecteur nul: E inter F = {vect nul}

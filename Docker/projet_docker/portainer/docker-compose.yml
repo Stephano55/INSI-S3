@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  portainer:
+    image: portainer/portainer-ce:latest
+    container_name: portainer
+    restart: always
+    ports:
+      - "9000:9000" #ports https du container
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock #accées au socket du docker
+      - portainer_data:/data #stockage des donnés de portainer
+volumes:
+  portainer_data:

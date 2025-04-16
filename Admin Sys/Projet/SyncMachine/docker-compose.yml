@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  bacula-client:
+    build: .
+    container_name: bacula_client
+    ports:
+      - "2222:22"
+    restart: unless-stopped
