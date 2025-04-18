@@ -11,12 +11,14 @@
             "id": "05f2f6f7cdd386fe",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Admin Réseaux/exercice/TD2.pdf"
+                "file": "Postgresql/Leçon.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "TD2"
+              "icon": "lucide-file",
+              "title": "Leçon"
             }
           }
         ]
@@ -168,9 +170,16 @@
   },
   "active": "05f2f6f7cdd386fe",
   "lastOpenFiles": [
-    "Admin Réseaux/Leçon/Leçon.md",
-    "Admin Réseaux/TP/TP.md",
+    "Postgresql/Files/pg11.pdf",
+    "Postgresql/Files/pg11.pdf.crdownload",
+    "Postgresql/Files",
+    "Admin Réseaux/TP/serveur/Installation Serveur Mail.md",
+    "Postgresql/Leçon.md",
+    "Postgresql",
     "Admin Réseaux/TP/Routage Dynamique RIP.md",
+    "Admin Réseaux/TP/Routage Statique.md",
+    "Admin Réseaux/exercice/TD2.pdf",
+    "Admin Réseaux/Leçon/Leçon.md",
     "Admin Réseaux/TP/scenarioA.pkt~",
     "Admin Réseaux/Leçon/ripconfigurationdebase_2.pdf",
     "Admin Réseaux/exercice/exo 1.pdf",
@@ -179,17 +188,12 @@
     "Admin Réseaux/exercice/exercicesRoutageIP.pdf",
     "Docker/leçon/Docker.md",
     "DevOps/Leçon/Orienté CI.md",
-    "Admin Réseaux/TP/scenarioA.pkt",
-    "Admin Réseaux/TP/Routage Statique.md",
     "Admin Réseaux/doc et image/Pasted image 20250414102612.png",
     "Admin Sys/Leçon/Leçon.md",
     "Admin Sys/Projet/SyncMachine/ABout/SyncMachine.md",
     "Hacking Ethique/Exposé/Suricata.md",
     "DevOps/TP/Apache-Php-MySql/Documentation.md",
-    "DevOps/TP/Apache-Php-MySql/docker-compose.yml",
-    "DevOps/TP/Apache-Php-MySql",
     "DevOps/TP/Apache,PHP,MySql.md",
-    "DevOps/TP",
     "Admin Sys/Projet/SyncMachine/files/Pasted image 20250413132003.png",
     "Admin Réseaux/doc et image/Pasted image 20250412211956.png",
     "Admin Réseaux/TP/exo1/exo1.md",

@@ -1,5 +1,0 @@
-- serveur DNS
-- serveur DHCP
-- serveur de fichier
-- serveur NFS
-- seerveur mail
