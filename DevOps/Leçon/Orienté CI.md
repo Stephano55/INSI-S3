@@ -29,4 +29,4 @@ Dans **DevOps**, il y a **Développement** et **Opération**(déployement). On *
     - Fonctionnel
     - Intégration
 - **Intégration/Qualification/Documentation**
-- **Déploiement** (satisfaction client)
+- **Déploiement** (satisfaction client) 
