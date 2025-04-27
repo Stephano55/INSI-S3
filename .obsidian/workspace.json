@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/leçon/Dockerfile.md",
+                "file": "Docker/Exercices/Serveur nginx/Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dockerfile"
+              "title": "Readme"
             }
           }
         ]
@@ -170,8 +170,12 @@
   },
   "active": "1ba514229fdd047a",
   "lastOpenFiles": [
-    "Admin Sys/Projet/Système de sauvegarde/Configuration.md",
+    "Docker/Exercices/Serveur nginx/nginx.conf",
     "Docker/leçon/Dockerfile.md",
+    "Docker/Exercices/Serveur nginx/Readme.md",
+    "Docker/Exercices/Serveur nginx/Dockerfile",
+    "Docker/Exercices/Serveur nginx",
+    "Admin Sys/Projet/Système de sauvegarde/Configuration.md",
     "Admin Sys/Projet/Système de sauvegarde/Document_corrige.docx",
     "Admin Sys/Projet/Système de sauvegarde/Donnée_Critique/2025-04-26_23-08/Sauvegarde/tab.png",
     "Admin Sys/Projet/Système de sauvegarde/Donnée_Critique/2025-04-26_23-08/Sauvegarde/code.png",
@@ -187,8 +191,6 @@
     "Admin Sys/Projet/Système de sauvegarde/Sauvegarde/tab.png",
     "Admin Sys/Projet/Système de sauvegarde/Logs/backup_2025-04-26_21-55.log",
     "Admin Sys/Projet/Système de sauvegarde/Donnée_Critique/tab.png",
-    "Admin Sys/Projet/Système de sauvegarde/Logs/backup_2025-04-26_21-45.log",
-    "DevOps/TP/Apache-Php-MySql/rsync -av --delete \"{Dossier contenant l",
     "DevOps/Leçon/Orienté CI.md",
     "Admin Sys/Projet/Système de sauvegarde/Sauvegarde/2025-04-19_10-39/ChatGPT Image Apr 12, 2025, 03_55_37 PM.png",
     "Admin Sys/Projet/Système de sauvegarde/Donnée_Critique/ChatGPT Image Apr 12, 2025, 03_55_37 PM.png",
@@ -213,8 +215,6 @@
     "Algèbre/leçon/Noyaux et Images.md",
     "Algèbre/leçon/Algèbre.md",
     "Algèbre/leçon/Application Linéaire.md",
-    "NoSQL/17-02-25/NoSQL.md",
-    "Algèbre/exo/Recherche à faire.md",
-    "Bienvenue.md"
+    "NoSQL/17-02-25/NoSQL.md"
   ]
 }
