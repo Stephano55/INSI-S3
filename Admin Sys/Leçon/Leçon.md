@@ -49,10 +49,10 @@ La question qui se pose est comment calculer l'adresse IP du réseau qui contien
 [^1]: On a toujours besoin d'un masque de reseau pour determiner le nombre d'hôte disponible dans le réseau
 
 
-
+---
 
 ### Gestion  réseau en ligne de commande sous linux
----
+
 - Afficher toutes les interfaces réseaux et leurs informations. Cette commande est basée sur le paquet **iproute2**
 ```
 ip a
@@ -178,3 +178,49 @@ dig (domain information groper)
     `speedtest-cli` est un outil en ligne commande qui permet de tester la vitesse de la connexion internet mais directement depuis un terminal
 
 ==commandes pour tester la bande passante==
+
+
+---
+## Protocole de messagerie: SMTP, POP, IMAP,MAPI
+
+### SMTP (Simple Mail Transfert Protocol):
+Le protocole SMTP a pour objectif d'acheminer les **e-mails** envoyés depuis un expéditeur, en s'appuyant sur le **serveur de messagerie**. Ce protocole fonctionne selon le mode **client-serveur** avec des connexions **tcp**. 
+Les serveurs de messagerie, autrement dit **MTA**(Mail Transfert Agent) vont faire transiter les e-mails. Le mail est envoyé via **SMTP** à votre serveur de messagerie. Ensuite le serveur de messagerie va l'envoyer via **SMTP** au serveur de messagerie du destinataire. Pour trouver à quel serveur de messagerie l'e-mail doit être envoyer, le serveur SMTP va s'appuyer sur le **DNS** et consulter l'enregistrement **MX** associé à votre domaine: **cet enregistrement indique du serveur de messagerie à contacter**.
+Le protocole **SMTP** s'appuie sur le **port 25** par défaut
+
+> [!NOTE] SMTPS
+> Protocole sécursé du SMTP qui utilise le port 587 également appelé SMTPoverSLL
+
+#### Relais SMTP:
+Un relais SMTP désigne généralement un serveur sur lequel on va s'appuyer pour faire transiter les e-mails dans le but qu'ils arrivent à destination  
+**exemple:** serveur **NAS**(Network Atached Storage)
+
+### POP: Post Office Protocol
+Ce protocole utilise aujourd'hui sa **version 3** d'où le nom **POP3**. Il a pour objectif de permettre de télécharger les e-mails de votre boite aux lettres sur un serveur de messagerie à partir de votre client de messagerie(gmail , outlook, etc).
+Notez bien que ce protocole télécharge les e-mails sur le client par exemple votre PC mais il n'y a pas de synchronisation client/serveur. C'est-à-dire lorsque le mail est télécharger sur votre PC par l'intermédiaire du protocole POP, **il n'est plus stocké sur le serveur** .
+Ce mode de fonctionnement signifie que le protocole POP n'est pas adapté si vous utiliser votre **BAL**(Boite aux lettres) sur plusieurs appareils. 
+**Exemple**: un e-mail télécharger sur votre PC ne sera pas accessible sur votre smartphone et vice-verse.
+
+Le protocole POP utilise tcp avec comme port par défaut le **port 110**. Il y a aussi **POPS** ou **POPoverSSL** qui utilise le **port 995**.
+
+### IMAP: Internet Message Access Protocol
+
+IMAP a pour objectif de récupérer les mails de votre BAL sur un serveur de messagerie.
+Ce protocole synchronise en permanence (sans effacer les e-mails sur le client à partir du serveur de messagerie). Autrement dit, il crée une copie du message sur votre PC ou smartphone grâce à la synchronisation. C-a-d que le message d'origine reste sur le serveur de messagerie ce qui va permettre de centraliser l'ensemble des boîtes aux lettres et de faciliter les sauvegardes. 
+Cette synchronisation permet d'avoir une boîte aux lettres dans le même état sur l'ensemble de votre appareils.
+
+
+> [!NOTE] Client de messagerie
+> - client lourd : application installée sur le poste
+> - client léger : via navigateur
+
+**IMAP** utilise le port **143 ou 220**
+**IMAPS** utilise le port **993**
+
+
+### MAPI: Messaging Application Programming Interface
+
+Le protocole **MAPI** est un protocole de messagerie propriétaire(contraire de **open source**) développé par **Microsoft**. Il sert à effectué la communication entre un client de messagerie et un serveur de messagerie appelé **Exchange**.
+**MAPI** est compatible avec le client de messagerie **outlook** qui est intégré à la suite **Microsoft Office** .
+L'avantage de **MAPI** par rapport à **IMAP** c'est qu'il intègre un aspect collaboratif, c-a-d en plus de synchroniser vos mails il synchronise également les **contacts** et le **calendrier**
+Le protocle **MAPI** s'appuie sur des flux web en **https**, donc il utilise le port par défaut **443** pour ce type de connexion toujours avec des connexions **tcp** 

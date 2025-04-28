@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Exercices/Serveur nginx/Readme.md",
+                "file": "Admin Sys/Leçon/Leçon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "Leçon"
             }
           }
         ]
@@ -170,9 +170,10 @@
   },
   "active": "1ba514229fdd047a",
   "lastOpenFiles": [
-    "Docker/Exercices/Serveur nginx/nginx.conf",
     "Docker/leçon/Dockerfile.md",
+    "Admin Sys/Leçon/Leçon.md",
     "Docker/Exercices/Serveur nginx/Readme.md",
+    "Docker/Exercices/Serveur nginx/nginx.conf",
     "Docker/Exercices/Serveur nginx/Dockerfile",
     "Docker/Exercices/Serveur nginx",
     "Admin Sys/Projet/Système de sauvegarde/Configuration.md",
@@ -189,7 +190,6 @@
     "Admin Sys/Projet/Système de sauvegarde/Logs/backup_2025-04-26_22-05.log",
     "Admin Sys/Projet/Système de sauvegarde/Logs/backup_2025-04-26_22-00.log",
     "Admin Sys/Projet/Système de sauvegarde/Sauvegarde/tab.png",
-    "Admin Sys/Projet/Système de sauvegarde/Logs/backup_2025-04-26_21-55.log",
     "Admin Sys/Projet/Système de sauvegarde/Donnée_Critique/tab.png",
     "DevOps/Leçon/Orienté CI.md",
     "Admin Sys/Projet/Système de sauvegarde/Sauvegarde/2025-04-19_10-39/ChatGPT Image Apr 12, 2025, 03_55_37 PM.png",
@@ -202,7 +202,6 @@
     "Admin Réseaux/TP/Routage Statique.md",
     "Admin Réseaux/Leçon/Leçon.md",
     "Docker/leçon/Docker.md",
-    "Admin Sys/Leçon/Leçon.md",
     "Admin Sys/Projet/SyncMachine/ABout/SyncMachine.md",
     "Hacking Ethique/Exposé/Suricata.md",
     "DevOps/TP/Apache-Php-MySql/Documentation.md",
