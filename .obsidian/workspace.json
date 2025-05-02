@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking Ethique/IDS Firewall et Honeypots.md",
+                "file": "Hacking Ethique/DOCS/Configuration Suricata.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IDS Firewall et Honeypots"
+              "title": "Configuration Suricata"
             }
           }
         ]
@@ -170,6 +170,9 @@
   },
   "active": "2cc00b82d482fb42",
   "lastOpenFiles": [
+    "Hacking Ethique/IDS Firewall et Honeypots.md",
+    "Hacking Ethique/DOCS/Configuration Suricata.md",
+    "Hacking Ethique/DOCS",
     "Algèbre/exo/Espace vectoriel.docx",
     "Hacking Ethique/suricata-7.0.10.tar.gz",
     "Docker/projet_docker/Gitlab On Alpine/assets/runtime/prepare_dirs.sh",
@@ -179,10 +182,7 @@
     "Docker/projet_docker/Gitlab On Alpine/assets/runtime/env_values.sh",
     "Docker/projet_docker/Gitlab On Alpine/assets/runtime/docker-entrypoint.sh",
     "Docker/projet_docker/Gitlab On Alpine/assets/runtime/config_list.txt",
-    "Docker/projet_docker/Gitlab On Alpine/assets/runtime/check_config.sh",
-    "Docker/projet_docker/Gitlab On Alpine/assets/build/install_gitlab.sh",
     "Postgresql/Leçon.md",
-    "Hacking Ethique/IDS Firewall et Honeypots.md",
     "Docker/leçon/Dockerfile.md",
     "Admin Sys/Leçon/Leçon.md",
     "Docker/Exercices/Hello word/Readme.md",
