@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking Ethique/DOCS/Configuration Suricata.md",
+                "file": "DevOps/TP/Docker Swarm/Orchestration des container avec Docker Swarm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configuration Suricata"
+              "title": "Orchestration des container avec Docker Swarm"
             }
           }
         ]
@@ -170,35 +170,36 @@
   },
   "active": "2cc00b82d482fb42",
   "lastOpenFiles": [
-    "Hacking Ethique/IDS Firewall et Honeypots.md",
+    "Admin Sys/Projet/Système de sauvegarde/Configuration.md",
+    "DevOps/TP/Docker Swarm/Orchestration des container avec Docker Swarm.md",
+    "DevOps/TP/Docker Swarm",
+    "Admin Sys/Projet/Système de sauvegarde/Donnée_Critique/2025-05-05_08-38/Sauvegarde/tiktok_rap.fr035_7499507953477815574.mp4",
+    "Admin Sys/Projet/Système de sauvegarde/Donnée_Critique/2025-05-05_08-38/Sauvegarde/tab.png",
+    "Admin Sys/Projet/Système de sauvegarde/Donnée_Critique/2025-05-05_08-38/Sauvegarde/code.png",
+    "Admin Sys/Projet/Système de sauvegarde/Donnée_Critique/2025-05-05_08-38/Sauvegarde/MysticHorizon.jpg",
+    "Admin Sys/Projet/Système de sauvegarde/Donnée_Critique/2025-05-05_08-38/Sauvegarde/EYE$👀.jpeg",
+    "Admin Sys/Projet/Système de sauvegarde/Donnée_Critique/2025-05-05_08-38/Sauvegarde",
+    "Admin Sys/Projet/Système de sauvegarde/Logs/backup_2025-05-05_08-38.log",
+    "Admin Sys/Projet/Système de sauvegarde/Donnée_Critique/2025-05-05_08-38",
+    "Admin Sys/Projet/Système de sauvegarde/Sauvegarde/tiktok_rap.fr035_7499507953477815574.mp4",
+    "Admin Sys/Projet/Système de sauvegarde/Logs/backup_2025-05-05_08-35.log",
+    "Admin Sys/Projet/Système de sauvegarde/Donnée_Critique/tiktok_rap.fr035_7499507953477815574.mp4",
     "Hacking Ethique/DOCS/Configuration Suricata.md",
+    "Hacking Ethique/IDS Firewall et Honeypots.md",
     "Hacking Ethique/DOCS",
     "Algèbre/exo/Espace vectoriel.docx",
-    "Hacking Ethique/suricata-7.0.10.tar.gz",
-    "Docker/projet_docker/Gitlab On Alpine/assets/runtime/prepare_dirs.sh",
-    "Docker/projet_docker/Gitlab On Alpine/assets/runtime/prepare_database.sh",
-    "Docker/projet_docker/Gitlab On Alpine/assets/runtime/prepare_config.sh",
-    "Docker/projet_docker/Gitlab On Alpine/assets/runtime/functions.sh",
-    "Docker/projet_docker/Gitlab On Alpine/assets/runtime/env_values.sh",
-    "Docker/projet_docker/Gitlab On Alpine/assets/runtime/docker-entrypoint.sh",
-    "Docker/projet_docker/Gitlab On Alpine/assets/runtime/config_list.txt",
     "Postgresql/Leçon.md",
     "Docker/leçon/Dockerfile.md",
     "Admin Sys/Leçon/Leçon.md",
     "Docker/Exercices/Hello word/Readme.md",
     "Docker/Exercices/Serveur nginx/Readme.md",
-    "Admin Sys/Projet/Système de sauvegarde/Configuration.md",
     "Admin Sys/Projet/Système de sauvegarde/Donnée_Critique/2025-04-26_23-08/Sauvegarde/tab.png",
     "Admin Sys/Projet/Système de sauvegarde/Donnée_Critique/2025-04-26_23-08/Sauvegarde/code.png",
     "Admin Sys/Projet/Système de sauvegarde/Donnée_Critique/2025-04-26_23-08/Sauvegarde/WhatsApp Image 2025-03-17 at 14.41.27.jpeg",
     "Admin Sys/Projet/Système de sauvegarde/Donnée_Critique/2025-04-26_23-08/Sauvegarde/MysticHorizon.jpg",
     "Admin Sys/Projet/Système de sauvegarde/Donnée_Critique/2025-04-26_23-08/Sauvegarde/EYE$👀.jpeg",
     "Admin Sys/Projet/Système de sauvegarde/Sauvegarde/tab.png",
-    "Admin Sys/Projet/Système de sauvegarde/Donnée_Critique/tab.png",
     "DevOps/Leçon/Orienté CI.md",
-    "Admin Sys/Projet/Système de sauvegarde/Sauvegarde/2025-04-19_10-39/ChatGPT Image Apr 12, 2025, 03_55_37 PM.png",
-    "Admin Sys/Projet/Système de sauvegarde/Donnée_Critique/ChatGPT Image Apr 12, 2025, 03_55_37 PM.png",
-    "Admin Sys/Projet/Système de sauvegarde/Sauvegarde/2025-04-19_10-39/code.png",
     "Postgresql/Gestion de commande en ligne.md",
     "Admin Réseaux/TP/serveur/Installation Serveur Mail.md",
     "Admin Réseaux/TP/Routage Dynamique RIP.md",
@@ -214,7 +215,6 @@
     "Admin Sys/Réponses/TD_ARSL.md",
     "Admin Sys/exercice/27-02_25.md",
     "Hacking Ethique/Exposé/suricata/Untitled.md",
-    "Algèbre/leçon/Noyaux et Images.md",
-    "Algèbre/leçon/Algèbre.md"
+    "Algèbre/leçon/Noyaux et Images.md"
   ]
 }
