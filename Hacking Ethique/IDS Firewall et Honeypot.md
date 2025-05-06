@@ -12,3 +12,9 @@
 - Fragmentation des paquets
 - Slow trafic (low and slow attack)
 - Tunneling : encapsuler les trafics (mampiasa service existant)
+
+## Simulation
+- créer un portail actif
+- Lancer un attaque
+- Capturer l'attaque avec un IDS
+- Stocker le capture dans un fichier .csv
